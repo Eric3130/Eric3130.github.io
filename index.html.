@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+         <style>
+        
+         p{
+            color: rgb(73, 209, 19);
+        }  
+        
+        h1{
+            color: rgb(219, 17, 95);
+        }  
+        
+        body {
+            background-color: rgb(223, 235, 235);
+        }
+            
+             #Amen {
+            background-color: purple;
+        }
+        </style>
+        
+    </head>
+    .}
+    <body>
+    
+        <h1>Travel to MEXICO</h1>
+
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/GrassBlock.png" width="103"> 
+    
+     <h2 id="Amen">Basic info</h2>
+     
+    <p>Mexico is a country between the United States and Central America, known for beaches on the Pacific and Gulf of Mexico, and its diverse landscape of mountains, deserts, and jungles. <em>Mexico</em> is a <strong>important contrie <em>for all the</em> world</strong>.</p>
+        
+        <h2>Language</h2>
+    
+    <p>In mexico the principal leangue is spanish, but not the original, Mexico have to much languages, las elegantes tiendas, los famosos museos y los restaurantes gourmet son parte de la vida moderna</p>
+    
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/leaf-green.png">
+
+    <h3>Original languages of mexico</h3>
+    
+    
+    <ul>
+        <li>Nahuatl</li>
+        <li>El chol</li>
+        <li>Maya</li>
+    </ul>
+    
+    <h3>Top 3 most famous states</h3>
+    
+    <ol>
+        <li>Quintana roo</li>
+        <li>Jalisco</li>
+        <li>Guerrero</li>
+    </ol>
+    
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/mr-pants-green.png">
+    </body>
+</html>
